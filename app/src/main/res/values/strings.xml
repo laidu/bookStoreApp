@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">电子书城*黑嘿嘿</string>
+    <string name="reset">重置</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="repassword">确认密码</string>
+    <string name="email">邮箱</string>
+    <string name="phone">手机</string>
+    <string name="login">登录</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="inputUsername">请输入用户名</string>
+    <string name="inputPassword">请输入密码</string>
+    <string name="reinputPassword">再次输入密码</string>
+    <string name="inputEmail">请输入邮箱</string>
+    <string name="inputPhone">请输入手机号</string>
+</resources>
